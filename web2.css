@@ -1,0 +1,50 @@
+.fp {
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+  margin-left: 5%;
+}
+
+.fp h1 {
+  font-size: 3.5em;
+  color: white;
+  font-weight: ;
+  font-family: josepin sans;
+}
+.fp h2 {
+  padding-top: 3%;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+.fp1 {
+  background-image: url("bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.fp button {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  border-width: 2px;
+  border-color: white;
+  margin-bottom: 5%;
+}
+.themes {
+  justify-content: center;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.wss {
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 2%;
+}
